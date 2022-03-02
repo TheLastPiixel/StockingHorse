@@ -1,0 +1,657 @@
+C:\Users\JosephChua\Documents\C#\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\JosephChua\Documents\C#\StockControl\bin\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\C#\StockControl\bin\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\C#\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\JosephChua\Documents\C#\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\JosephChua\Documents\C#\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\JosephChua\Documents\C#\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\JosephChua\Documents\C#\StockControl\obj\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\C#\StockControl\obj\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\obj\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\obj\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Joseph Chua\Documents\StockControl\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\JosephChua\Documents\StockControl\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\JosephChua\Documents\StockControl\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\JosephChua\Documents\StockControl\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\JosephChua\Documents\StockControl\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\JosephChua\Documents\StockControl\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\JosephChua\Documents\StockControl\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\JosephChua\Documents\StockControl\StockControl\obj\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\StockControl\StockControl\obj\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\StockControl\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\obj\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv1\StockControl\StockControl\obj\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\obj\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\obj\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\StockControl\StockControlv4\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\obj\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\obj\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joseph Chua\Documents\StockControl\StockControlv5\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\obj\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\obj\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JosephChua\Documents\StockControl\StockControlv5.1(NF)\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\obj\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\obj\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JosephChua\Documents\SC\StockControlv6.0\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\x86\sqlite3.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\x64\sqlite3.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\StockControl.exe.config
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\StockControl.exe
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\StockControl.pdb
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\CsvHelper.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\EntityFramework.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\CsvHelper.xml
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\EntityFramework.xml
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.xml
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\obj\Debug\StockControl.Form1.resources
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\obj\Debug\StockControl.Login.resources
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\obj\Debug\StockControl.PopUp.resources
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\obj\Debug\StockControl.exe
+D:\Users\TheLastP!xel\Documents\StockControlv6.1(NW)\StockControlv6.0\StockControl\obj\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\obj\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\obj\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.0\StockControlv6.0\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\obj\Debug\StockControl.Form1.resources
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\obj\Debug\StockControl.Login.resources
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\obj\Debug\StockControl.PopUp.resources
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\obj\Debug\StockControl.exe
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\obj\Debug\StockControl.pdb
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\x86\sqlite3.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\x64\sqlite3.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\StockControl.exe.config
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\StockControl.exe
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\StockControl.pdb
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\CsvHelper.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\EntityFramework.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\System.Data.SQLite.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\CsvHelper.xml
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\EntityFramework.xml
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\System.Data.SQLite.xml
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\TheLastP!xel\Documents\StockControlv7.0\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\obj\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv7.1\StockControl\obj\Debug\StockControl.pdb
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\x86\sqlite3.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\x64\sqlite3.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\StockControl.exe.config
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\StockControl.exe
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\StockControl.pdb
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\CsvHelper.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\EntityFramework.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\System.Data.SQLite.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\CsvHelper.xml
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\EntityFramework.xml
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\System.Data.SQLite.xml
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.Form1.resources
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.Login.resources
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.PopUp.resources
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.exe
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.pdb
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.EditSKUForm.resources
+D:\Users\TheLastP!xel\Documents\StockControlv8.0\StockControl\obj\Debug\StockControl.ConfirmationForm.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.ConfirmationForm.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.EditSKUForm.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv9.1\StockControl\obj\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.ConfirmationForm.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.EditSKUForm.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv9.2\StockControl\obj\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.ConfirmationForm.resources
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.EditSKUForm.resources
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\SC\StockControlv9.3\StockControl\obj\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\StockControl.pdb
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.ConfirmationForm.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.EditSKUForm.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.exe
+C:\Users\Joseph Chua\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.pdb
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\x86\sqlite3.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\x64\sqlite3.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\StockControl.exe.config
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\StockControl.exe
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\StockControl.pdb
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\CsvHelper.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\EntityFramework.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\System.Data.SQLite.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\CsvHelper.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\EntityFramework.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\System.Data.SQLite.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.ConfirmationForm.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.Form1.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.EditSKUForm.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.Login.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.PopUp.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.exe
+D:\Users\TheLastP!xel\Documents\StockControlv9.4\StockControl\obj\Debug\StockControl.pdb
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\x86\sqlite3.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\x64\sqlite3.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\StockControl.exe.config
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\StockControl.exe
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\StockControl.pdb
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\CsvHelper.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\EntityFramework.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\System.Data.SQLite.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\CsvHelper.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\EntityFramework.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\System.Data.SQLite.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.ConfirmationForm.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.Form1.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.EditSKUForm.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.Login.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.PopUp.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.exe
+D:\Users\TheLastP!xel\Documents\StockControlv9.5\StockControl\obj\Debug\StockControl.pdb
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\StockControl.exe
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\StockControl.pdb
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.ConfirmationForm.resources
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.EditSKUForm.resources
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.exe
+C:\Users\JosephChua\Downloads\StockControlv9.7\StockControl\obj\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\x86\sqlite3.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\x64\sqlite3.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\StockControl.exe.config
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\StockControl.pdb
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\CsvHelper.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\EntityFramework.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\CsvHelper.xml
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\EntityFramework.xml
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.ConfirmationForm.resources
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.Form1.resources
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.EditSKUForm.resources
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.Login.resources
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.PopUp.resources
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.csproj.CoreCompileInputs.cache
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.csproj.CopyComplete
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.exe
+C:\Users\JosephChua\Documents\Stocking Horse\StockControlv9.7.1\StockControlv9.7.1\StockControl\obj\Debug\StockControl.pdb
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.csprojAssemblyReference.cache
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.exe
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.pdb
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\x86\sqlite3.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\x64\sqlite3.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\StockControl.exe.config
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\StockControl.exe
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\StockControl.pdb
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\CsvHelper.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\EntityFramework.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\System.Data.SQLite.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\CsvHelper.xml
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\EntityFramework.xml
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\System.Data.SQLite.xml
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\System.Data.SQLite.dll.config
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.ConfirmationForm.resources
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.Form1.resources
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.EditSKUForm.resources
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.Login.resources
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.PopUp.resources
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.Properties.Resources.resources
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.csproj.GenerateResource.cache
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.csproj.CoreCompileInputs.cache
+D:\Users\TheLastPiixel\Downloads\StockControlv9.7.2\StockControlv9.7.2\StockControlv9.7.1\StockControl\obj\Debug\StockControl.csproj.CopyComplete
